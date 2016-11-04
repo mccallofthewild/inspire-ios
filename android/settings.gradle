@@ -1,0 +1,3 @@
+rootProject.name = 'inspire'
+
+include ':app'
